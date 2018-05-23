@@ -1,6 +1,6 @@
 # hyper-site
 
-[![Join the community on Spectrum](https://withspectrum.github.io/badge/badge.svg)](https://spectrum.chat/hyper)
+[![Join the community on Spectrum](https://withspectrum.github.io/badge/badge.svg)](https://spectrum.chat/hyper) [![Greenkeeper badge](https://badges.greenkeeper.io/zeit/hyper-site.svg)](https://greenkeeper.io/)
 
 The official website for the Hyper terminal
 
