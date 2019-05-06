@@ -23,7 +23,12 @@
     ]
   },
   "dependencies": {
+    "@mapbox/rehype-prism": "^0.3.1",
+    "@mdx-js/loader": "0.16.6",
+    "@next/bundle-analyzer": "^8.1.0",
+    "@next/mdx": "^8.1.0",
     "babel-plugin-inline-react-svg": "^1.0.1",
+    "classnames": "^2.2.6",
     "escape-html": "^1.0.3",
     "isomorphic-unfetch": "^3.0.0",
     "lodash.debounce": "^4.0.8",
@@ -36,10 +41,12 @@
     "react": "^16.6.3",
     "react-dom": "^16.6.3",
     "react-gravatar": "^2.6.3",
-    "react-highlighter": "^0.4.3"
+    "react-highlighter": "^0.4.3",
+    "remark-capitalize": "^1.1.0",
+    "screenfull": "^4.2.0"
   },
   "devDependencies": {
-    "husky": "^1.2.0",
+    "husky": "^2.2.0",
     "lint-staged": "^8.1.0",
     "prettier": "^1.15.3"
   },
